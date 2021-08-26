@@ -6,9 +6,10 @@
 
 All images are licenced under [Creative Commons Attribution 4.0 International License][cc-by]. If you want to reuse any images in this sub-directory, you can refer to this page as proof of permission. Cite the following publication to give proper attribution:
 
-```
-Yvonne Jansen, Pierre Dragicevic, and Jean-Daniel Fekete. 2013. Evaluating the efficiency of physical visualizations. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, 2593–2602. DOI:https://doi.org/10.1145/2470654.2481359
-```
+
+>Yvonne Jansen, Pierre Dragicevic, and Jean-Daniel Fekete. 2013. Evaluating the efficiency of physical visualizations. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, 2593–2602. DOI:https://doi.org/10.1145/2470654.2481359
+
+or if you prefer BibTeX
 
 ```bibtex
 @inbook{Jansen2013Evaluating,
