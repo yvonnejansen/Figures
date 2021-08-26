@@ -3,7 +3,6 @@
 The figures included in this repository are licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
@@ -14,3 +13,5 @@ This repository is dedicated to provide creative commons versions of figures fro
 
 ## How to use this repository
 Each sub-directory contains an individual README.md file which indicates how to attribute the images of that sub-directory. You may reuse any of these images in your own articles under the condition that you indicate the license of the image and cite the article indicated in the README.md file for the image. You can use that README.md file and the respository address as proof of permission for your publisher; there is no need to ask me or my co-authors explicitly. Nonetheless, we are always happy to learn that our work is useful to others, and we would be happy to hear from you if you choose to reuse any of the material provided here.
+
+[![CC BY 4.0][cc-by-image]][cc-by]
