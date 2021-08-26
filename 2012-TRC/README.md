@@ -6,9 +6,9 @@
 
 All images are licenced under [Creative Commons Attribution 4.0 International License][cc-by]. If you want to reuse any images in this sub-directory, you can refer to this page as proof of permission. Cite the following publication to give proper attribution:
 
-```
-Yvonne Jansen, Pierre Dragicevic, and Jean-Daniel Fekete. 2012. Tangible remote controllers for wall-size displays. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, 2865–2874. DOI:https://doi.org/10.1145/2207676.2208691
-```
+>Yvonne Jansen, Pierre Dragicevic, and Jean-Daniel Fekete. 2012. Tangible remote controllers for wall-size displays. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, 2865–2874. DOI:https://doi.org/10.1145/2207676.2208691
+
+or if you prefer BibTeX
 
 ```bibtex
 @inbook{Jansen2012Tangible,
