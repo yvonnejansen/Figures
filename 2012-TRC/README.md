@@ -11,7 +11,7 @@ All images are licenced under [Creative Commons Attribution 4.0 International Li
 or if you prefer BibTeX
 
 ```bibtex
-@inbook{Jansen2012Tangible,
+@inproceedings{Jansen2012Tangible,
 author = {Jansen, Yvonne and Dragicevic, Pierre and Fekete, Jean-Daniel},
 title = {Tangible Remote Controllers for Wall-Size Displays},
 year = {2012},
