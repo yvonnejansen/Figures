@@ -12,7 +12,7 @@ All images are licenced under [Creative Commons Attribution 4.0 International Li
 or if you prefer BibTeX
 
 ```bibtex
-@inbook{Jansen2013Evaluating,
+@inproceedings{Jansen2013Evaluating,
 author = {Jansen, Yvonne and Dragicevic, Pierre and Fekete, Jean-Daniel},
 title = {Evaluating the Efficiency of Physical Visualizations},
 year = {2013},
